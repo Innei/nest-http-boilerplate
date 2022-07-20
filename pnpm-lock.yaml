@@ -41,7 +41,7 @@ specifiers:
   consola: '*'
   cron: '*'
   cross-env: 7.0.3
-  dayjs: 1.11.3
+  dayjs: 1.11.4
   eslint: '*'
   fastify: '*'
   husky: 8.0.1
@@ -93,7 +93,7 @@ dependencies:
   class-validator: 0.13.2
   consola: 2.15.3
   cron: 2.1.0
-  dayjs: 1.11.3
+  dayjs: 1.11.4
   lodash: 4.17.21
   mongoose: 6.4.5
   mongoose-paginate-v2: 1.7.0
@@ -2139,8 +2139,8 @@ packages:
     engines: {node: '>= 12'}
     dev: true
 
-  /dayjs/1.11.3:
-    resolution: {integrity: sha512-xxwlswWOlGhzgQ4TKzASQkUhqERI3egRNqgV4ScR8wlANA/A9tZ7miXa44vTTKEq5l7vWoL5G57bG3zA+Kow0A==}
+  /dayjs/1.11.4:
+    resolution: {integrity: sha512-Zj/lPM5hOvQ1Bf7uAvewDaUcsJoI6JmNqmHhHl3nyumwe0XHwt8sWdOVAPACJzCebL8gQCi+K49w7iKWnGwX9g==}
     dev: false
 
   /debug/2.6.9:
